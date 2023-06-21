@@ -18,4 +18,4 @@ HTML, SCSS
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/hM1GhRv)
+![App Screenshot]([https://ibb.co/hM1GhRv](https://i.ibb.co/W3prqW1/Captura-da-Web-20-6-2023-212411-localhost.jpg)https://i.ibb.co/W3prqW1/Captura-da-Web-20-6-2023-212411-localhost.jpg)
