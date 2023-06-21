@@ -1,4 +1,7 @@
-# Weather Card
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/W3prqW1/Captura-da-Web-20-6-2023-212411-localhost.jpg)# Weather Card
 
 ### PT-BR
 Um exemplo de card para exibição do tempo.
@@ -14,8 +17,3 @@ HTML, CSS
 ## Stack utilizada
 
 HTML, SCSS
-
-
-## Screenshots
-
-![App Screenshot]([https://ibb.co/hM1GhRv](https://i.ibb.co/W3prqW1/Captura-da-Web-20-6-2023-212411-localhost.jpg)https://i.ibb.co/W3prqW1/Captura-da-Web-20-6-2023-212411-localhost.jpg)
